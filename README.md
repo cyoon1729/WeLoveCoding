@@ -11,4 +11,4 @@ Contact Our Team:
 - Jeremy Kogan: jkogan20@cgps.org
 
 
-This repository containes the Curriculum &amp; Teaching Materials for We Love Coding
+This repository contains the Curriculum &amp; Teaching Materials for We Love Coding

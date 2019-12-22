@@ -5,10 +5,8 @@ Visit our website:
 http://welovecoding.org
 
 Contact Our Team:
-- Jack Yuan: jyuan19@cgps.org
-- Kaya Celebi: kcelebi19@cgps.org
+- Jeremy Kogan: jdkogan10@gmail.com
 - Chris Yoon: cyoon20@cgps.org
-- Jeremy Kogan: jkogan20@cgps.org
 
 
 This repository contains the Curriculum &amp; Teaching Materials for We Love Coding
